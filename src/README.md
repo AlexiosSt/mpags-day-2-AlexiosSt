@@ -2,7 +2,7 @@
 A simple command line tool for encrypting/decrypting text using classical ciphers
 
 ## Authors
-Thomas Latham, Ben Morgan, Mark Slater, Matt Williams, Luke Kreczko
+Thomas Latham, Ben Morgan, Mark Slater, Matt Williams and Luke Kreczko.
 
 ## Building `mpags-cipher`
 Compilation of `mpags-cipher` requires a  C++11 compatible compiler
